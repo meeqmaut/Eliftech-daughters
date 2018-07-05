@@ -1,0 +1,51 @@
+{
+  "company": [
+    {
+      "name": "TESLA",
+      "profit": 666,
+      "totalProfit": null,
+      "id": 1,
+      "daughterIds": [
+        5,
+        6
+      ]
+    },
+    {
+      "name": "HONDA",
+      "profit": 250,
+      "totalProfit": null,
+      "id": 2,
+      "daughterIds": [
+        3
+      ]
+    },
+    {
+      "name": "AMAZON",
+      "profit": 220,
+      "totalProfit": null,
+      "id": 3,
+      "daughterIds": []
+    },
+    {
+      "name": "MICROSOFT",
+      "profit": 228,
+      "totalProfit": null,
+      "id": 4,
+      "daughterIds": []
+    },
+    {
+      "name": "PAYPAL",
+      "profit": 142,
+      "totalProfit": null,
+      "id": 5,
+      "daughterIds": []
+    },
+    {
+      "name": "EBAY",
+      "profit": 331,
+      "totalProfit": null,
+      "id": 6,
+      "daughterIds": []
+    }
+  ]
+}
